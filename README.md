@@ -2,7 +2,7 @@
 
 Taller del **Python Exposition Day 2026** · 3 de octubre · Guatemala
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/taller-demanda-electrica/blob/main/taller_demanda_ALUMNO.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chofodan/taller-demanda-electrica/blob/main/taller_demanda_ALUMNO.ipynb)
 
 Construimos, de principio a fin, un modelo que pronostica la demanda eléctrica
 **con 24 horas de anticipación**: hoy a las 10 de la mañana queremos saber cuánta
